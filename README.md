@@ -1,1 +1,16 @@
-# zynka-ev-app-overview
+# 🔋 Zynka EV Charging App
+
+Cross-platform EV charging mobile application built with Flutter.
+
+## 🧱 Architecture
+- Clean architecture + Bloc pattern  
+- Integrated Google Maps SDK, Firebase Auth & Notifications  
+- Stripe and Razorpay for payments  
+- Real-time charging updates via FCM
+
+## 📦 Tech Used
+Flutter • Firebase • Stripe • Razorpay • Google Cloud APIs • Azure DevOps • Codemagic
+
+## 📲 Live
+- [Play Store](https://play.google.com/store/apps/details?id=com.zynkaapp.zynka)
+- [App Store](https://apps.apple.com/in/app/zynka/id6742701773)
