@@ -8,6 +8,13 @@ Cross-platform EV charging mobile application built with Flutter.
 - Stripe and Razorpay for payments  
 - Real-time charging updates via FCM
 
+### 💼 3. **Canva / Figma**
+- Create a nice visual diagram (clean icons, colored arrows).
+- Export as PNG.
+- Put it in your repo and reference it in your README:
+  ```markdown
+  ![Architecture Diagram](images/app-architecture.png)
+
 ## 📦 Tech Used
 Flutter • Firebase • Stripe • Razorpay • Google Cloud APIs • Azure DevOps • Codemagic
 
